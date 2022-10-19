@@ -7,7 +7,7 @@ Basic context API setup
 3. ContextProvider with passed children
 4. set the UserContext in the index.js
 5. To consume the context: export the AuthContext from UserContext
-6. Now at Header or Home ( or anywhere else): use useContext hook yo get the info in the context
+6. Now at Header or Home ( or anywhere else): use useContext hook to get the info in the context
 */
 
 /*
